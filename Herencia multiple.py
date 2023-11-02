@@ -7,7 +7,7 @@ class Animal():
     def respirar(self) -> int:#cantidad de veces que respira por minuto
         return 30
 
-
+#
     def correr(self) ->str:
 
         return "Corre normal"
